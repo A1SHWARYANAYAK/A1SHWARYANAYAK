@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**A1SHWARYANAYAK/A1SHWARYANAYAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Aishwarya Nayak
 
-Here are some ideas to get you started:
+### :woman: A little about me ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on Machine Learning and Advanced Python.
+- Assistant System Engineer Trainee at [TCS India](https://www.tcs.com/). 
+- Actively contributing to the machine learning community.
+
+### :books: I’m currently learning ...
+- NLP
+- Tabular Data
+- Computer Vision
+- Machine Learning with R
+
+### :speech_balloon: Ask me about ...
+- Classification/Regression/Neural Networks
+- Tensorflow
+- Selenium
+- Web Scraping
+
+## For more in detail information visit my [Portfolio](http://aishwaryanayak.pythonanywhere.com/)
+
