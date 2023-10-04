@@ -4,22 +4,18 @@
 
 ### :woman: A little about me ...
 
-- Working on Full-Stack Development.
-- Assistant System Engineer at [TCS India](https://www.tcs.com/). 
-- Actively contributing to the LinkedIn community.
+- Studying Data Science at UB as a Grad.
+- Have Previous Experience as Software Developer at Mocapay and TCS.
+- Open to collaborations and discussions over data-driven problems.
 
 ### :books: I’m currently learning ...
-- Scala
-- AngularJS
-- Python
-- Machine Learning
+- Introduction to Linear Algebra by G. Strang
+- Introduction to Probability by DP Bertsekas and JN Tsitsiklis 
+- Python for Data Science by Zia Mohammad
+- An Introduction to Statistical Learning with Applications in R by Gareth James
 
 ### :speech_balloon: Ask me about ...
-- Frontend Development
-- Classification/Regression/Neural Networks
-- Tensorflow
-- Selenium
-- Web Scraping
-
-## For more in detail information visit my [Portfolio](http://aishwaryanayak.pythonanywhere.com/)
+- Python
+- R
+- MATLAB
 
