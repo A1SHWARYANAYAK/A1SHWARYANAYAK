@@ -18,5 +18,5 @@
 - Artificial Intelligence
 
 ## 📫 How to reach me:
-Reach me via [![Email](https://img.shields.io/badge/Email-nayakaishwarya12@yahoo.in-blue)](mailto:nayakaishwarya12@yahoo.in)
+[![Email](https://img.shields.io/badge/Email-nayakaishwarya12@yahoo.in-blue)](mailto:nayakaishwarya12@yahoo.in)
 or [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/aishwarya-nayak-/)
