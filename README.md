@@ -8,11 +8,8 @@
 - Previously worked in the capacity of Software Developer at firms such as [TCS (MNC)](https://www.tcs.com/) and [Mocapay (Startup)](https://mocapay.com/).
 - Open to collaborations and discussions over data-driven problems.
 
-### 👩‍🔬: I’m currently learning ...
-- Zero Shot Learning
-- Deep Learning
-
 ### :speech_balloon: Ask me about ...
+- Software Development & Deployment
 - Data Science
 - Machine Learning
 - Artificial Intelligence
