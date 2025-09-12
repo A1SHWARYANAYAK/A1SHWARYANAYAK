@@ -4,9 +4,8 @@
 
 ### :woman: A little about me ...
 - Currently working as an AI Engineer at [Handshake](https://joinhandshake.com/).
-- Completed my [Master of Science in Data Science](https://catalogs.buffalo.edu/preview_program.php?catoid=2&poid=451&returnto=68) from [University at Buffalo (SUNY Buffalo)](https://www.buffalo.edu/).
-- Previously worked as a Software Developer at firms such as [TCS (MNC)](https://www.tcs.com/) and [Mocapay (Startup)](https://mocapay.com/).
-- Open to collaborations and discussions over data-driven problems.
+- Completed my MS in Data Science from [University at Buffalo (SUNY Buffalo)](https://www.buffalo.edu/).
+- Previously worked as a Software Developer at firms such as [TCS](https://www.tcs.com/) and [Mocapay](https://mocapay.com/).
 
 ### :speech_balloon: Ask me about ...
 - Generative AI/ LLMs
