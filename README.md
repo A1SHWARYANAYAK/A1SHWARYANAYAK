@@ -3,7 +3,7 @@
 ## I'm Aishwarya Nayak
 
 ### :woman: A little about me ...
-- Currently working as an AI Engineer at [Handshake](https://joinhandshake.com/).
+- Recently concluded an AI Engineer fellowship at [Handshake](https://joinhandshake.com/).
 - Completed my MS in Data Science from [University at Buffalo (SUNY Buffalo)](https://www.buffalo.edu/).
 - Previously worked as a Software Developer at firms such as [TCS](https://www.tcs.com/) and [Mocapay](https://mocapay.com/).
 
