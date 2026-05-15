@@ -15,7 +15,7 @@
 - Machine Learning
 
 ## 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-nayakaishwarya12@yahoo.in-blue)](mailto:ashnayakwork@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashnayakwork@gmail.com-blue)](mailto:ashnayakwork@gmail.com)
 or [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/aishwarya-nayak-/)
 
 ## See My Portfolio [here](https://a1shwaryanayak.github.io/)!
