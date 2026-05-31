@@ -2,17 +2,39 @@
 
 ## I'm Aishwarya Nayak
 
-### :woman: A little about me ...
-- Recently concluded an AI Engineer fellowship at [Handshake](https://joinhandshake.com/).
-- Completed my MS in Data Science from [University at Buffalo (SUNY Buffalo)](https://www.buffalo.edu/).
-- Previously worked as a Software Developer at firms such as [TCS](https://www.tcs.com/) and [Mocapay](https://mocapay.com/).
+AI Engineer with a background in software engineering and an MS in Data Science from the University at Buffalo.
 
-### :speech_balloon: Ask me about ...
-- Generative AI/ LLMs
-- Prompt Engineering
-- Software Development & Deployment
-- Data Science
-- Machine Learning
+### 👩‍💻 A little about me ...
+
+- Currently working as an **AI Evaluation Engineer (Fellow)** at **Handshake AI**, contributing to the evaluation of frontier AI systems and LLM-powered software engineering workflows.
+- Hold an **MS in Data Science** from **University at Buffalo (SUNY)**.
+- Previously built scalable backend systems, APIs, and distributed applications at **Mocapay** and **TCS**.
+- Interested in **Applied AI, Generative AI, AI Evaluation, AI Agents, and intelligent software systems**.
+
+### 💬 Ask me about ...
+
+- AI Evaluation & Benchmarking
+- Large Language Models (LLMs)
+- Generative AI & RAG Systems
+- Python Development
+- Distributed Systems & APIs
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Scala, Java, SQL
+
+**AI & GenAI:** LLMs, Prompt Engineering, AI Evaluation, RAG
+
+**Backend:** REST APIs, Microservices, Apache Kafka
+
+**Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions
+
+### 🌱 Currently Learning
+
+- AI Agents & Workflow Orchestration
+- LangChain & LangGraph
+- Production AI Systems
+- AI System Design
 
 ## 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Email-ashnayakwork@gmail.com-blue)](mailto:ashnayakwork@gmail.com)
