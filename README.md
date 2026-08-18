@@ -1,41 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-# I'm Aishwarya Nayak
+### I'm Aishwarya Nayak
 
-AI Engineer specializing in **Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and backend systems**, with an MS in Data Science from the University at Buffalo (SUNY).
+I'm an AI Engineer working at the intersection of **Generative AI, LLM applications, AI evaluation, and backend engineering**. I enjoy building practical AI systems and working on the evaluation and reliability of LLM-powered applications.
 
----
-
-### 👩‍💻 A little about me...
-
-- Currently working as an **AI Evaluation Engineer** at **Handshake AI**, building and evaluating frontier AI systems, autonomous coding agents, and software engineering benchmarks.
-- Previously worked as a **Generative AI Engineer** at **Reality AI Lab**, where I built production-ready RAG applications using **Google Vertex AI, Gemini, and LangChain**.
-- Hold an **MS in Data Science** from the **University at Buffalo (SUNY)**.
-- Previously worked as a **Backend Software Engineer** at **Mocapay** and **TCS**, building scalable APIs, distributed systems, and cloud-native applications.
-- Passionate about building reliable AI systems that bridge research and real-world products.
+I hold an M.S. in Data Science from the University at Buffalo (SUNY) and have 5+ years of software engineering experience, spanning AI engineering and backend development.
 
 ---
 
-### 🚀 Current Interests
+### 👩‍💻 What I do
 
-- Agentic AI & Multi-Agent Systems
-- Production LLM Applications
+- **AI Evaluation & Benchmarking** — designing benchmark tasks, test cases, and evaluation environments for LLM-generated code and reasoning.
+- **Generative AI** — building AI-powered applications using LLM APIs and cloud AI platforms.
+- **Agentic AI** — exploring agent workflows, tool calling, and LLM-based systems.
+- **Backend Engineering** — building APIs and backend services with Python and FastAPI, backed by experience with microservices and distributed systems.
+
+---
+
+### 🚀 Areas I'm interested in
+
+- Generative AI & LLM Applications
+- Agentic AI & AI Agents
 - Retrieval-Augmented Generation (RAG)
 - AI Evaluation & Benchmarking
-- Backend Engineering
-- AI Infrastructure & LLMOps
-
----
-
-### 💬 Ask me about...
-
-- Agentic AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Evaluation & Benchmarking
-- LangChain & LangGraph
-- FastAPI & Backend Engineering
-- Distributed Systems
+- LLM Application Engineering
+- Backend & AI Infrastructure
 
 ---
 
@@ -44,14 +33,14 @@ AI Engineer specializing in **Agentic AI, Large Language Models (LLMs), Retrieva
 **Languages:**  
 Python • Java • Scala • TypeScript • JavaScript • SQL
 
-**AI & GenAI:**  
-LLMs • Agentic AI • RAG • Prompt Engineering • AI Evaluation • LangChain • LangGraph • OpenAI API • Gemini API • Vertex AI
+**AI & LLM:**  
+LLMs • Generative AI • Agentic AI • RAG • Prompt Engineering • AI Evaluation • LangChain • LangGraph • OpenAI API • Gemini API • Vertex AI
 
 **Backend:**  
 FastAPI • REST APIs • Microservices • Apache Kafka
 
-**Cloud & DevOps:**  
-Docker • Kubernetes • GitHub Actions • Jenkins • AWS • Google Cloud Platform (GCP)
+**Cloud & Infrastructure:**  
+Docker • Kubernetes • Git • GitHub Actions • Jenkins • AWS • Google Cloud Platform (GCP)
 
 **Databases:**  
 MySQL • ChromaDB • Apache Solr
@@ -60,12 +49,11 @@ MySQL • ChromaDB • Apache Solr
 
 ### 🌱 Currently Learning
 
-- AI Infrastructure
-- LLMOps & AI Observability
+- LLMOps and AI observability
 - Model Context Protocol (MCP)
-- Inference Optimization
-- Kubernetes for AI Workloads
-- n8n & Workflow Automation
+- AI infrastructure
+- Inference optimization
+- Workflow automation with n8n
 
 ---
 
